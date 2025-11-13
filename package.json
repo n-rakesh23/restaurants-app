@@ -1,0 +1,21 @@
+{
+  "name": "fooddeliveryapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+   
+  },
+  "dependencies":{
+     "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
